@@ -29,6 +29,11 @@ Day 11 was a capstone project that combined everything learned so far: functions
 ### 🃏 Blackjack
 A complete command-line Blackjack game following simplified casino rules.
 
+**Flowchart:**
+
+![](https://github.com/TaDuy2005/100-days-of-code-Python/blob/main/Day%20011%20-%20The%20Blackjack%20Capstone%20Project/Blackjack_Flowchart.png)
+
+
 **Highlights:**
 - Simulated an unlimited deck using a predefined card list
 - Implemented Ace logic (11 or 1 depending on score)
